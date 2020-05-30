@@ -6,4 +6,6 @@ Features:
 - Background options (neutral and chroma key green)
 - Minified popout for ease of use
 
+Use the application live: [https://craigbavender.org/cerberustimer](https://craigbavender.org/cerberustimer)
+
 Created in 2020 by me [@Spookytheboy](https://craigbavender.org)
