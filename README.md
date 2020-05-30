@@ -20,8 +20,9 @@ As its understood, to avoid a Ghost Phase reliably, the steps should be done as 
 2. Continue to attack Cerberus until its HP is just above 400. Taking HP below 400 will fail the No Ghosts method.
 3. Wait for the timer to run out.
 4. Once the timer is complete, continue fighting Cerberus.
-Note: Once the 56 seconds are complete, it is best to use the highest DPS options available, as, I believe, another 0:5X second internal timer will start, and, once completed, if Cerberus is not yet defeated, another Ghost Phase will begin. This is why it's advisable to use Guthans during first attacks to ~ 400hp, then swap to highest DPS + spec weapons once the timer has completed.
 
-Note: If you attack Cerberus too early (with 1 second on the clock left) you can trigger an immediate Ghost Phase. It's important to wait until the "Time to Fight" alert has triggered before click Attack.
+## Additional Notes: 
+- Once the 56 seconds are complete, it is best to use the highest DPS options available, as, I believe, another 0:5X second internal timer will start, and, once completed, if Cerberus is not yet defeated, another Ghost Phase will begin. This is why it's advisable to use Guthans during first attacks to ~ 400hp, then swap to highest DPS + spec weapons once the timer has completed.
+- If you attack Cerberus too early (with 1 second on the clock left) you can trigger an immediate Ghost Phase. It's important to wait until the "Time to Fight" alert has triggered before click Attack.
 
-Created in 2020 by me [@Spookytheboy](https://craigbavender.org)
+Created in 2020 by me [@Spookytheboy](https://twitter.com/spookytheboy) | [craigbavender.org](https://craigbavender.org/projects/cerberustimer/)
