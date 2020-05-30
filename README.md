@@ -1,16 +1,16 @@
 # Cerberus "No Ghosts" Method Timer
 Simple timer app to assist in fighting the Oldschool Runescape boss "Cerberus" specifically for avoiding the "ghosts" or "spirits" phase.
 
-Features:
+## Features:
 - Sound profile options (Bell on 0, or Text to Speech vocal countdown)
 - Background options (neutral and chroma key green)
 - Minified popout for ease of use
 
 Use the application live: [https://craigbavender.org/cerberustimer](https://craigbavender.org/cerberustimer)
 
-Description:
+## Description:
 
-The Cerberus "No Ghost" method is a method explained by Fall_n on Youtube, demonstrated in video form.
+The Cerberus "No Ghost" method is a method explained by [Fall_n on Youtube](https://www.youtube.com/watch?v=G-ZBNA6XSxE&lc=z23lvnhwdvfucz3q004t1aokgiqgicf0frlykmrvzywprk0h00410).
 
 To explain, the boss Cerberus periodically triggers a mechanic where it spawns three Summoned Souls, which I call its Ghost Phase. The ghost phase is costly to endure and can be very difficult to survive. There have been discoveries that show the Ghost Phase is triggered using a combination of Cerberus' HP threshold and player aggression.
 
