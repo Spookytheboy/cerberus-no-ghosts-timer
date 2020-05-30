@@ -1,5 +1,5 @@
 # Cerberus "No Ghosts" Method Timer
-Simple timer app to assist in fighting the OSRS boss "Cerberus" specifically for avoiding the "ghosts" or "spirits" phase.
+Simple timer app to assist in fighting the Oldschool Runescape boss "Cerberus" specifically for avoiding the "ghosts" or "spirits" phase.
 
 Features:
 - Sound profile options (Bell on 0, or Text to Speech vocal countdown)
