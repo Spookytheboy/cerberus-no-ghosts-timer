@@ -1,0 +1,19 @@
+body {
+	width: 400px;
+	height: 400px;
+	display: inline-block;
+	background-color: lightgray;
+}
+.options-menu .option {
+	padding-top: 10px;
+}
+.time-remaining {
+	font-size: 64px;
+	font-family: monospace;
+}
+.red {
+	color: red;
+}
+.options-menu.hidden {
+	display: none;
+}
