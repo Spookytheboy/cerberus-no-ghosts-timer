@@ -6,4 +6,4 @@ Features:
 - Background options (neutral and chroma key green)
 - Minified popout for ease of use
 
-Created in 2020 by me @Spookytheboy
+Created in 2020 by me [@Spookytheboy](https://craigbavender.org)
